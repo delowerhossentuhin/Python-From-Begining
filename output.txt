@@ -1,1 +1,21 @@
-What is Your Name? Hello Tuhin
+<class 'str'>
+<class 'str'>
+Python for "Beginner"
+Hello John,
+Congratulation's for your success
+Best wishe's 
+Robert
+
+H
+t
+ello John,
+Congratulation's for your success
+Best wishe's 
+Robert
+
+o John,
+Con
+n,
+
+ame of Thron
+Game of Thrones
