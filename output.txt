@@ -1,21 +1,14 @@
-<class 'str'>
-<class 'str'>
-Python for "Beginner"
-Hello John,
-Congratulation's for your success
-Best wishe's 
-Robert
-
-H
-t
-ello John,
-Congratulation's for your success
-Best wishe's 
-Robert
-
-o John,
-Con
-n,
-
-ame of Thron
-Game of Thrones
+Robert [Moore] is a tech expert
+Robert [Moore] is a tech expert
+ROBERT [MOORE] IS A TECH EXPERT
+robert [moore] is a tech expert
+Robert [Moore] Is A Tech Expert
+3
+20
+Robert [Moore] is an tech expert
+Robert Moore is a tech expert
+True
+True
+False
+True
+False
