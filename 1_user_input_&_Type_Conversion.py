@@ -14,3 +14,6 @@ print(f"Type: {type(floatVal)}, Entered float value is: {floatVal}")
 birth_Year=input("Enter Your Birth Year: ")
 age=2025-int(birth_Year)
 print(f"Your age is: {age}")
+
+number2=int(input("Input one Number: "))
+print(f"The Square of this Number is: {number2**2}")
