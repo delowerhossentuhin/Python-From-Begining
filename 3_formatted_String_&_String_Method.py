@@ -22,5 +22,5 @@ print('Moore' in Statement)
 print('moore' in Statement)
 
 print('mugabe' in Statement.replace("Moore",'mugabe'))
-print('MUGABE' in Statement.replace("Moore",'mugabe'))
+print('MUGABE' in Statement.replace("Moore",'mugabe').upper())
 
