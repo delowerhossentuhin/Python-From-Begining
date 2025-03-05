@@ -1,14 +1,1 @@
-Robert [Moore] is a tech expert
-Robert [Moore] is a tech expert
-ROBERT [MOORE] IS A TECH EXPERT
-robert [moore] is a tech expert
-Robert [Moore] Is A Tech Expert
-3
-20
-Robert [Moore] is an tech expert
-Robert Moore is a tech expert
-True
-True
-False
-True
-True
+
