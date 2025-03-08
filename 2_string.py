@@ -12,8 +12,8 @@ course='Python for "Beginner"'
 print(course)
 
 message='''Hello John,
-Congratulation's for your success
-Best wishe's 
+Congratulations on your success
+Best wishes 
 Robert
 '''
 print(message)
