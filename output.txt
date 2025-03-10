@@ -1,22 +1,6 @@
-['john', 'sansa', 'joffery', 'ned', 'ramsy', 'briene']
-sansa
-['joffery', 'ned', 'ramsy']
-['john', 'sansa', 'walter', 'ned']
-briene
-ned
-['john', 'sansa', 'walter', 12, 'ramsy', 'briene']
-['john', 'sansa', 'walter', 22, 'ramsy', 'briene']
-15
--1
-[1, 2, 3]
-[2, 4, 6]
-[3, 6, 9]
 1
 2
-3
 2
-4
-6
 3
-6
-9
+105
+2520

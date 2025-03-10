@@ -35,8 +35,8 @@ print(min)
 
 matrix=[
     [1,2,3],
-    [2,4,6],
-    [3,6,9]
+    [2,9,6],
+    [3,6,3]
 ]
 for row in matrix:
     print(row) # for printing each row
@@ -45,5 +45,12 @@ for row in matrix:
     for item in row:
         print(item) # for printing each item in matrix
 
-    
+# finding maximum number from 2d matrix
+max=matrix[0][0]
+for row in matrix:
+    for item in row:
+        if item > max:
+            max=item
+print(max)
+
 
