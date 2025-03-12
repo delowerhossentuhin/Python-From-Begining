@@ -20,3 +20,5 @@ print(x*y*z)
 lists=[4,7,9,10]
 m,n,o,p=lists
 print(m*n*o*p)
+
+print(y**x)
